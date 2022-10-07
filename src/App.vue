@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <header>
     <h1 class="mb-5 text-xl font-medium">Star Wars Film</h1>
   </header>
-
+  
   <RouterView />
 
   <footer>
